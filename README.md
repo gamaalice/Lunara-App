@@ -9,10 +9,10 @@ Lunara’s purpose is to help freelancers better organize their professional rou
 ## Main Links
 
 Web application:  
-[access web version](ADD_DEPLOY_LINK)
+[access web version](https://app-lunara.vercel.app/login)
 
 Windows desktop app:  
-[download installer](ADD_RELEASE_LINK)
+[download installer](Lunara_0.1.0_x64-setup.exe)
 
 Technical documentation:
 
