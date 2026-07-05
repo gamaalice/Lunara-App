@@ -59,24 +59,49 @@ Lunara includes:
 
 ## Screenshots
 
+### Main screens
+
 <p align="center">
-  <img src="photos/1.png" width="48%" alt="Lunara dashboard" />
-  <img src="photos/6.png" width="48%" alt="Lunara login screen" />
+  <img src="photos/1.png" width="90%" alt="Lunara dashboard" />
 </p>
 
 <p align="center">
-  <img src="photos/8.png" width="48%" alt="Lunara clients page" />
-  <img src="photos/10.png" width="48%" alt="Lunara projects page" />
+  <img src="photos/2.png" width="90%" alt="Lunara finance page" />
 </p>
 
 <p align="center">
-  <img src="photos/13.png" width="48%" alt="Lunara tasks page" />
-  <img src="photos/2.png" width="48%" alt="Lunara finance page" />
+  <img src="photos/4.png" width="90%" alt="Lunara calendar page" />
 </p>
 
 <p align="center">
-  <img src="photos/4.png" width="48%" alt="Lunara calendar page" />
-  <img src="photos/3.png" width="48%" alt="Lunara transaction modal" />
+  <img src="photos/8.png" width="90%" alt="Lunara clients page" />
+</p>
+
+<p align="center">
+  <img src="photos/10.png" width="90%" alt="Lunara projects page" />
+</p>
+
+<p align="center">
+  <img src="photos/13.png" width="90%" alt="Lunara tasks page" />
+</p>
+
+### Authentication
+
+<p align="center">
+  <img src="photos/6.png" width="45%" alt="Lunara login screen" />
+  <img src="photos/7.png" width="45%" alt="Lunara sign up screen" />
+</p>
+
+### Forms and interactions
+
+<p align="center">
+  <img src="photos/3.png" width="45%" alt="Lunara transaction modal" />
+  <img src="photos/9.png" width="45%" alt="Lunara client modal" />
+</p>
+
+<p align="center">
+  <img src="photos/11.png" width="45%" alt="Lunara project modal" />
+  <img src="photos/15.png" width="45%" alt="Lunara task modal" />
 </p>
 
 ## Repository Structure
