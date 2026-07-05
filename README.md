@@ -93,8 +93,6 @@ This repository does not expose the full application source code.
 
 The purpose of this repository is to present Lunara as a portfolio case study, showing documentation, technical decisions, screenshots, and selected code samples without making the complete product codebase public.
 
-Suggested structure:
-
 ```txt
 Lunara-App/
 ├─ README.md
@@ -111,9 +109,6 @@ Lunara-App/
 ├─ Firebase-security.md
 └─ Tauri-build.md
 ```
-
-The `code-samples` folder contains important parts of the project, such as authentication, the Firestore service, layout structure, reusable components, and forms.
-
 Sensitive files, environment variables, final builds, private configuration, and the complete application source code are not included in this repository.
 
 ## Technical Decisions
