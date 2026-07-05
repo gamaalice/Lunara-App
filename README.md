@@ -1,4 +1,4 @@
-# Lunara
+# Lunara (Case Study Repository)
 
 Lunara is a management application for freelancers, created to centralize clients, projects, tasks, finances, and deadlines in a single workspace.
 
