@@ -59,7 +59,25 @@ Lunara includes:
 
 ## Screenshots
 
+<p align="center">
+  <img src="photos/1.png" width="48%" alt="Lunara dashboard" />
+  <img src="photos/6.png" width="48%" alt="Lunara login screen" />
+</p>
 
+<p align="center">
+  <img src="photos/8.png" width="48%" alt="Lunara clients page" />
+  <img src="photos/10.png" width="48%" alt="Lunara projects page" />
+</p>
+
+<p align="center">
+  <img src="photos/13.png" width="48%" alt="Lunara tasks page" />
+  <img src="photos/2.png" width="48%" alt="Lunara finance page" />
+</p>
+
+<p align="center">
+  <img src="photos/4.png" width="48%" alt="Lunara calendar page" />
+  <img src="photos/3.png" width="48%" alt="Lunara transaction modal" />
+</p>
 
 ## Repository Structure
 
