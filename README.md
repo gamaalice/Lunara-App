@@ -196,8 +196,8 @@ To better understand the project decisions, see:
 
 To see other projects, experience, and professional information, visit my profiles:
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/alice-gama-75913022a/)
+LinkedIn: [Alice Gama](https://www.linkedin.com/in/alice-gama-75913022a/)
 
-Portfolio: [Portfolio](https://dev-portfolio-two-lovat-95.vercel.app/)
+Portfolio: [Alice Gama-Software Engineer](https://dev-portfolio-two-lovat-95.vercel.app/)
 
-GitHub: [GitHub](https://github.com/gamaalice)
+GitHub: [gamaalice](https://github.com/gamaalice)
