@@ -84,10 +84,6 @@ Lunara includes:
 </p>
 
 <p align="center">
-  <img src="photos/13.png" width="90%" alt="Lunara tasks page" />
-</p>
-
-<p align="center">
   <img src="photos/14.png" width="55%" alt="Lunara task status dropdown" />
 </p>
 
