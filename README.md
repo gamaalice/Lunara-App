@@ -198,6 +198,6 @@ To see other projects, experience, and professional information, visit my profil
 
 LinkedIn: [Alice Gama](https://www.linkedin.com/in/alice-gama-75913022a/)
 
-Portfolio: [Alice Gama-Software Engineer](https://dev-portfolio-two-lovat-95.vercel.app/)
+Portfolio: [Portfolio Website](https://dev-portfolio-two-lovat-95.vercel.app/)
 
 GitHub: [gamaalice](https://github.com/gamaalice)
