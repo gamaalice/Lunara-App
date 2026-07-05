@@ -96,20 +96,20 @@ The purpose of this repository is to present Lunara as a portfolio case study, s
 Suggested structure:
 
 ```txt
-lunara-case-study/
+Lunara-App/
 ├─ README.md
-├─ assets/
-│  └─ screenshots/
-├─ code-samples/
-│  ├─ auth/
-│  ├─ firestore/
-│  ├─ layout/
-│  ├─ forms/
-│  └─ components/
-└─ docs/
-   ├─ architecture.md
-   ├─ firebase-security.md
-   └─ tauri-build.md
+├─ photos/
+├─ clients/
+├─ finance/
+├─ firebase/
+├─ layout/
+├─ projects/
+├─ shared/
+├─ Login.tsx
+├─ useAuth.tsx
+├─ Architecture.md
+├─ Firebase-security.md
+└─ Tauri-build.md
 ```
 
 The `code-samples` folder contains important parts of the project, such as authentication, the Firestore service, layout structure, reusable components, and forms.
@@ -201,8 +201,8 @@ To better understand the project decisions, see:
 
 To see other projects, experience, and professional information, visit my profiles:
 
-LinkedIn: [add LinkedIn link](https://www.linkedin.com/in/alice-gama-75913022a/)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/alice-gama-75913022a/)
 
-Portfolio: [add portfolio link](https://dev-portfolio-two-lovat-95.vercel.app/)
+Portfolio: [Portfolio](https://dev-portfolio-two-lovat-95.vercel.app/)
 
-GitHub: [add GitHub link](https://github.com/gamaalice)
+GitHub: [GitHub](https://github.com/gamaalice)
